@@ -19,7 +19,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-               at'23
+               
                 echo 'Deploy by CS509 successful'
             }
         }
